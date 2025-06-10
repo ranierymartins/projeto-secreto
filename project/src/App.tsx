@@ -567,7 +567,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <img src="data/img/RA1Z PRETA.svg" />
+              <img src="project\data\img\r (1).svg" />
             </div>
             <p className="text-gray-400">
               Transformando a gestão pública através da tecnologia.
