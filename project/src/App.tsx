@@ -567,10 +567,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                <Heart className="w-5 h-5 text-white" />
-              </div>
-              <span className="text-xl font-bold text-white">RA1Z</span>
+              <img src="data/img/RA1Z PRETA.svg" />
             </div>
             <p className="text-gray-400">
               Transformando a gestão pública através da tecnologia.
@@ -587,7 +584,7 @@ function App() {
           <div>
             <h3 className="font-semibold mb-4 text-white">Contato</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>📞 +55 (98) 8908-0020</li>
+              <li>📞 +55 (98) 98908-0020</li>
               <li>✉️ contato@ra1z.org</li>
               <li>🌐 ra1z.org</li>
             </ul>
