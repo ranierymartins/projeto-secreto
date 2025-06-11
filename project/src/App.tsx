@@ -75,7 +75,7 @@ function App() {
       {/* Stats Section */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-8 text-center">
             <div className="transform hover:scale-105 transition-transform duration-300">
               <div className="text-4xl md:text-5xl font-bold text-blue-600 mb-2">50K</div>
               <p className="text-gray-600">Habitantes Atendidos</p>
@@ -91,6 +91,7 @@ function App() {
             <div className="transform hover:scale-105 transition-transform duration-300">
               <div className="text-4xl md:text-5xl font-bold text-blue-600 mb-2">R$ 1,43</div>
               <p className="text-gray-600">Custo per capita/mês</p>
+
               <div className="transform hover:scale-105 transition-transform duration-300">
               <div className="text-4xl md:text-5xl font-bold text-blue-600 mb-2">2.52%</div>
               <p className="text-gray-600">Da receita anual</p>
