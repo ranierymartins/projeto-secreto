@@ -57,9 +57,7 @@ function App() {
             🏆 Tecnologia que Transforma Gestões
           </Badge>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 animate-fade-in-up">
-            Aumente a Satisfação da População de
-            <span className="text-yellow-300"> 46% para 70%+ </span>
-            em 90 dias
+            Sistema de Gestão Hospitalar
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto opacity-90">
             Os sistemas de gestão ajudaram os prefeitos a se tornarem referências nacionais, conquistando reeleições com taxas de aprovação impressionantes!
