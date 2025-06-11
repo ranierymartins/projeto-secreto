@@ -91,6 +91,7 @@ function App() {
             <div className="transform hover:scale-105 transition-transform duration-300">
               <div className="text-4xl md:text-5xl font-bold text-blue-600 mb-2">R$ 1,43</div>
               <p className="text-gray-600">Custo per capita/mês</p>
+              </div>
 
               <div className="transform hover:scale-105 transition-transform duration-300">
               <div className="text-4xl md:text-5xl font-bold text-blue-600 mb-2">2.52%</div>
